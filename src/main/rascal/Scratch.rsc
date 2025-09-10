@@ -1,4 +1,4 @@
 module Scratch
-
-import A1;
-// import B1;
+import A;
+import B;
+// Foo

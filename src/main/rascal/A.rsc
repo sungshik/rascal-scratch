@@ -1,0 +1,2 @@
+module A
+extend B;
