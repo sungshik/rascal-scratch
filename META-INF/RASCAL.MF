@@ -1,0 +1,3 @@
+Manifest-Version: 0.0.1
+Project-Name: rascal-scratch
+Source: src/main/rascal
