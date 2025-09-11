@@ -1,4 +1,7 @@
 module Scratch
-import A;
+
+extend A;
 import B;
-// Foo
+
+value x = "foo";
+value z = y;

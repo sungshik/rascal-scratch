@@ -1,2 +1,3 @@
 module A
-extend B;
+
+value x = 5;
